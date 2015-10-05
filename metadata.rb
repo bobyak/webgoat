@@ -23,7 +23,7 @@ version '0.2.1'
 
 recipe 'default', 'Installs/configures WebGoat'
 
-depends 'java'
+# depends 'java'
 
 supports 'ubuntu'
 supports 'debian'
