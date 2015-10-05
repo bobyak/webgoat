@@ -25,5 +25,5 @@
 # OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
 # THE SOFTWARE.
 #
-
+require 'chef/log'
 Chef::Log.level = :debug
