@@ -16,7 +16,7 @@
 # limitations under the License.
 #
 
-# include_recipe 'java'
+include_recipe 'java'
 
 remote_file = 'https://webgoat.atlassian.net/builds/browse/WEB-WGM/'\
               'latestSuccessful/artifact/shared/WebGoat-Embedded-Tomcat/'\
